@@ -49,8 +49,8 @@ function* baz() {
     console.log(arr);
 }
 
-var z = baz();
+// var z = baz();
 
-console.log(z.next());  
-console.log(z.next(1)); 
-console.log(z.next(2));
+// console.log(z.next());  
+// console.log(z.next(1)); 
+// console.log(z.next(2));
